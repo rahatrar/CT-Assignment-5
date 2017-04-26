@@ -6,12 +6,13 @@ body{
     font-family: 'Fjalla One', sans-serif;
 }
 .banner {
-    height:100%vh;
+    
      position: relative;
 }
 img{
      max-width: 100%;
      width: 100%;
+    height:100%vh;
     
 }
 
