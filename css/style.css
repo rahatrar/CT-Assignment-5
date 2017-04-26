@@ -6,7 +6,7 @@ body{
     font-family: 'Fjalla One', sans-serif;
 }
 .banner {
-    height:100vh;
+    height:100%vh;
      position: relative;
 }
 img{
