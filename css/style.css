@@ -65,6 +65,7 @@ font-size: 17px;
     border: 1px solid #069AFE;
     font-size: 20px;
     box-shadow: 2px 2px 5px #0B5282;
+    cursor: pointer;
 }
 
 p {
